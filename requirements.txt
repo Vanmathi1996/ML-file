@@ -9,4 +9,8 @@ streamlit
 gunicorn
 requests
 matplotlib
+<<<<<<< HEAD
 seaborn
+=======
+acuuracy metrix
+>>>>>>> fc79130f13b276b8901323a88058b00b5a3a6341
